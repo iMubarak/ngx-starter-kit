@@ -121,7 +121,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.18",
     "@fortawesome/free-brands-svg-icons": "^5.8.2",
     "@fortawesome/free-solid-svg-icons": "^5.8.2",
-    "@ngx-formly/core": "^5.1.6",
+    "@ngx-formly/core": "^5.1.7",
     "@ngx-formly/material": "^5.1.6",
     "@ngx-lite/in-viewport": "^0.1.3",
     "@ngx-lite/input-star-rating": "^0.2.5",
